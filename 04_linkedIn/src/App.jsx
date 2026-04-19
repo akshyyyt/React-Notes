@@ -20,4 +20,8 @@ function PostComponent(){
   // Make a linkedIn PostComponent, including conditional rendering,
 }
 
+function Tabs(){
+  // Make 4 Tabs which calls backend for page, meanwhile show loading too 
+}
+
 export default App
