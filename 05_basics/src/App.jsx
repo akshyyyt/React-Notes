@@ -9,14 +9,11 @@ function App() {
     //   </Card>
     // </div>
 
-    // <>
-    //   <ErrorBoundary>
-    //     <Card1/>
-    //   </ErrorBoundary>
-    //   <Card2/> 
-    // </>
-
     <>
+      <ErrorBoundary>
+        <Card1/>
+      </ErrorBoundary>
+      <Card2/> 
     </>
   )
 }
